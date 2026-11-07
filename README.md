@@ -17,8 +17,9 @@ macOS 原生本地视频播放器：硬件加速播放 MP4 / M4V / MOV，打开�
 
 系统要求：macOS 26 及以上，Apple Silicon。
 
-1. 下载 [Pavo.zip](https://github.com/leadead/Pavo-Releases/releases/latest/download/Pavo.zip)（[所有版本](https://github.com/leadead/Pavo-Releases/releases)）
-2. 解压后把 Pavo 拖入「应用程序」
+1. 下载 [Pavo.dmg](https://github.com/leadead/Pavo-Releases/releases/latest/download/Pavo.dmg)（[所有版本](https://github.com/leadead/Pavo-Releases/releases)）
+2. 打开 DMG，把 Pavo 拖到「应用程序」文件夹
+3. 从「应用程序」打开 Pavo，之后可以推出 DMG
 
 安装包已通过 Apple 公证。
 
